@@ -1,17 +1,3 @@
-hello
-1.純雲端Remote版控：GitHub設帳號後。
-(1)fork他人Repository到自己的帳號內。
-(2)新建Repository, 建新文件，edit 資料，版控。
-
-2.純本地Local版控：下載Git軟體後，以GitGUI版控
-(1)
-
-3.Remote-Local聯結版控：設URL做為通道。
-(1)該Repository存在於本地，而雲端無。
-(2)該Repository存在於雲端，而本地無。
-(3)兩端皆有同名Repository時。
-
-
 hello: fork, clone, pull, push; rescan, stage, commit.
 Fork:fork與Local無關，僅在雲端將他人Repository移動到自己帳號內。
 Clone:本地從無到有，當Local無此Repository,由自己雲端帳號複製該Repository到本地。
