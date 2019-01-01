@@ -1,3 +1,4 @@
+最佳組合:git+sourcetree+vs-code+gitHUB
 hello: fork, clone, pull, push; rescan, stage, commit.
 Fork:fork與Local無關，僅在雲端將他人Repository移動到自己帳號內。
 Clone:本地從無到有，當Local無此Repository,由自己雲端帳號複製該Repository到本地。
